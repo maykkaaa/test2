@@ -1,1 +1,1 @@
-# test2
+	**FastAPI, Uvicorn, SQLite, Pydantic**
